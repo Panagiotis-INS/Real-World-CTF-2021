@@ -3,7 +3,7 @@ Challenge name:HOME
 Solution:<br>
 Upon HOMEpage eunmeration in the network section we find a wierd image<br>
 
-![net_img](./images/Screeshot.png)
+![net_img](./images/Screenshot.png)
 <br>
 when we Download the image we open it and see some python code featured in sol.py<br>
 
