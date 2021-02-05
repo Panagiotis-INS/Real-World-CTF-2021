@@ -11,6 +11,6 @@ when we Download the image we open it and see some python code featured in sol.p
 
 when we execute the code we get the flag<br>
 
-![flag](./images/flag)
+![flag](./images/sol2.png)
 
 FLAG:rwctf{1_R3alw0rld;together@HOME}
